@@ -1,0 +1,3181 @@
+ [{
+         "kanji": "会う",
+         "text": "あう",
+         "translate": "để đáp ứng"
+     },
+     {
+         "kanji": "青",
+         "text": "あお",
+         "translate": "màu xanh"
+     },
+     {
+         "kanji": "青い",
+         "text": "あおい",
+         "translate": "màu xanh"
+     },
+     {
+         "kanji": "赤",
+         "text": "あか",
+         "translate": "màu đỏ"
+     },
+     {
+         "kanji": "赤い",
+         "text": "あかい",
+         "translate": "màu đỏ"
+     },
+     {
+         "kanji": "明い",
+         "text": "あかるい",
+         "translate": "sáng"
+     },
+     {
+         "kanji": "秋",
+         "text": "あき",
+         "translate": "mùa thu"
+     },
+     {
+         "kanji": "開く",
+         "text": "あく",
+         "translate": "để mở, để trở nên cởi mở"
+     },
+     {
+         "kanji": "開ける",
+         "text": "あける",
+         "translate": "mở"
+     },
+     {
+         "kanji": "上げる",
+         "text": "あげる",
+         "translate": "để cung cấp cho"
+     },
+     {
+         "kanji": "朝",
+         "text": "あさ",
+         "translate": "buổi sáng"
+     },
+     {
+         "kanji": "朝御飯",
+         "text": "あさごはん",
+         "translate": "bữa ăn sáng"
+     },
+     {
+         "text": "あさって",
+         "translate": "ngày sau khi ngày mai"
+     },
+     {
+         "kanji": "足",
+         "text": "あし",
+         "translate": "chân, chân"
+     },
+     {
+         "kanji": "明日",
+         "text": "あした",
+         "translate": "ngày mai"
+     },
+     {
+         "text": "あそこ",
+         "translate": "ở đó"
+     },
+     {
+         "kanji": "遊ぶ",
+         "text": "あそぶ",
+         "translate": "để chơi, để thực hiện một chuyến thăm"
+     },
+     {
+         "kanji": "暖かい",
+         "text": "あたたかい",
+         "translate": "ấm áp"
+     },
+     {
+         "kanji": "頭",
+         "text": "あたま",
+         "translate": "đầu"
+     },
+     {
+         "kanji": "新しい",
+         "text": "あたらしい",
+         "translate": "mới"
+     },
+     {
+         "text": "あちら",
+         "translate": "có"
+     },
+     {
+         "kanji": "暑い",
+         "text": "あつい",
+         "translate": "nóng"
+     },
+     {
+         "kanji": "熱い",
+         "text": "あつい",
+         "translate": "nóng khi chạm vào"
+     },
+     {
+         "kanji": "厚い",
+         "text": "あつい",
+         "translate": "loại, vùng sâu, dày"
+     },
+     {
+         "text": "あっち",
+         "translate": "ở đó"
+     },
+     {
+         "kanji": "後",
+         "text": "あと",
+         "translate": "sau đó"
+     },
+     {
+         "text": "あなた",
+         "translate": "bạn"
+     },
+     {
+         "kanji": "兄",
+         "text": "あに",
+         "translate": "(khiêm tốn) anh trai"
+     },
+     {
+         "kanji": "姉",
+         "text": "あね",
+         "translate": "(khiêm tốn) chị gái"
+     },
+     {
+         "text": "あの",
+         "translate": "đằng kia"
+     },
+     {
+         "text": "あの",
+         "translate": "um ..."
+     },
+     {
+         "text": "アパート",
+         "translate": "căn hộ"
+     },
+     {
+         "text": "あびる",
+         "translate": "tắm rửa, tắm"
+     },
+     {
+         "kanji": "危ない",
+         "text": "あぶない",
+         "translate": "nguy hiểm"
+     },
+     {
+         "kanji": "甘い",
+         "text": "あまい",
+         "translate": "ngọt ngào"
+     },
+     {
+         "text": "あまり",
+         "translate": "không phải là rất"
+     },
+     {
+         "kanji": "雨",
+         "text": "あめ",
+         "translate": "mưa"
+     },
+     {
+         "kanji": "飴",
+         "text": "あめ",
+         "translate": "kẹo"
+     },
+     {
+         "kanji": "洗う",
+         "text": "あらう",
+         "translate": "rửa"
+     },
+     {
+         "text": "ある",
+         "translate": "được, đã (được sử dụng cho các đối tượng vô tri vô giác)"
+     },
+     {
+         "kanji": "歩く",
+         "text": "あるく",
+         "translate": "đi bộ"
+     },
+     {
+         "text": "あれ",
+         "translate": "mà"
+     },
+     {
+         "text": "いい/よい",
+         "translate": "tốt"
+     },
+     {
+         "text": "いいえ",
+         "translate": "không có"
+     },
+     {
+         "kanji": "言う",
+         "text": "いう",
+         "translate": "nói"
+     },
+     {
+         "kanji": "家",
+         "text": "いえ",
+         "translate": "nhà"
+     },
+     {
+         "text": "いかが",
+         "translate": "như thế nào"
+     },
+     {
+         "kanji": "行く",
+         "text": "いく",
+         "translate": "đi"
+     },
+     {
+         "text": "いくつ",
+         "translate": "bao nhiêu?, bao nhiêu tuổi?"
+     },
+     {
+         "text": "いくら",
+         "translate": "bao nhiêu?"
+     },
+     {
+         "kanji": "池",
+         "text": "いけ",
+         "translate": "ao"
+     },
+     {
+         "kanji": "医者",
+         "text": "いしゃ",
+         "translate": "bác sĩ y khoa"
+     },
+     {
+         "text": "いす",
+         "translate": "ghế"
+     },
+     {
+         "kanji": "忙しい",
+         "text": "いそがしい",
+         "translate": "bận rộn, bị kích thích"
+     },
+     {
+         "kanji": "痛い",
+         "text": "いたい",
+         "translate": "đau đớn"
+     },
+     {
+         "kanji": "一",
+         "text": "いち",
+         "translate": "một"
+     },
+     {
+         "kanji": "一日",
+         "text": "いちにち",
+         "translate": "đầu tiên của tháng"
+     },
+     {
+         "text": "いちばん",
+         "translate": "tốt nhất, đầu tiên"
+     },
+     {
+         "text": "いつ",
+         "translate": "khi"
+     },
+     {
+         "kanji": "五日",
+         "text": "いつか",
+         "translate": "năm ngày, ngày thứ năm"
+     },
+     {
+         "kanji": "一緒",
+         "text": "いっしょ",
+         "translate": "cùng"
+     },
+     {
+         "kanji": "五つ",
+         "text": "いつつ",
+         "translate": "năm"
+     },
+     {
+         "text": "いつも",
+         "translate": "luôn luôn"
+     },
+     {
+         "kanji": "犬",
+         "text": "いぬ",
+         "translate": "con chó"
+     },
+     {
+         "kanji": "今",
+         "text": "いま",
+         "translate": "bây giờ"
+     },
+     {
+         "kanji": "意味",
+         "text": "いみ",
+         "translate": "có nghĩa là"
+     },
+     {
+         "kanji": "妹",
+         "text": "いもうと",
+         "translate": "(khiêm tốn) em gái"
+     },
+     {
+         "kanji": "嫌",
+         "text": "いや",
+         "translate": "khó chịu"
+     },
+     {
+         "kanji": "入口",
+         "text": "いりぐち",
+         "translate": "lối vào"
+     },
+     {
+         "kanji": "居る",
+         "text": "いる",
+         "translate": "được, đã (được sử dụng cho người và động vật)"
+     },
+     {
+         "kanji": "要る",
+         "text": "いる",
+         "translate": "cần"
+     },
+     {
+         "kanji": "入れる",
+         "text": "いれる",
+         "translate": "để đưa vào"
+     },
+     {
+         "kanji": "色",
+         "text": "いろ",
+         "translate": "màu"
+     },
+     {
+         "text": "いろいろ",
+         "translate": "khác nhau"
+     },
+     {
+         "kanji": "上",
+         "text": "うえ",
+         "translate": "trên"
+     },
+     {
+         "kanji": "後ろ",
+         "text": "うしろ",
+         "translate": "đằng sau"
+     },
+     {
+         "kanji": "薄い",
+         "text": "うすい",
+         "translate": "mỏng, yếu"
+     },
+     {
+         "kanji": "歌",
+         "text": "うた",
+         "translate": "bài hát"
+     },
+     {
+         "kanji": "歌う",
+         "text": "うたう",
+         "translate": "hát"
+     },
+     {
+         "kanji": "生まれる",
+         "text": "うまれる",
+         "translate": "được sinh ra"
+     },
+     {
+         "kanji": "海",
+         "text": "うみ",
+         "translate": "biển"
+     },
+     {
+         "kanji": "売る",
+         "text": "うる",
+         "translate": "bán"
+     },
+     {
+         "kanji": "煩い",
+         "text": "うるさい",
+         "translate": "ồn ào, gây phiền nhiễu"
+     },
+     {
+         "kanji": "上着",
+         "text": "うわぎ",
+         "translate": "áo khoác"
+     },
+     {
+         "kanji": "絵",
+         "text": "え",
+         "translate": "hình ảnh"
+     },
+     {
+         "kanji": "映画",
+         "text": "えいが",
+         "translate": "phim"
+     },
+     {
+         "kanji": "映画館",
+         "text": "えいがかん",
+         "translate": "rạp chiếu phim"
+     },
+     {
+         "kanji": "英語",
+         "text": "えいご",
+         "translate": "ngôn ngữ tiếng Anh"
+     },
+     {
+         "text": "ええ",
+         "translate": "có"
+     },
+     {
+         "kanji": "駅",
+         "text": "えき",
+         "translate": "trạm"
+     },
+     {
+         "text": "エレベーター",
+         "translate": "thang máy"
+     },
+     {
+         "kanji": "鉛筆",
+         "text": "えんぴつ",
+         "translate": "bút chì"
+     },
+     {
+         "text": "おいしい",
+         "translate": "ngon"
+     },
+     {
+         "kanji": "多い",
+         "text": "おおい",
+         "translate": "nhiều"
+     },
+     {
+         "kanji": "大きい",
+         "text": "おおきい",
+         "translate": "lớn"
+     },
+     {
+         "kanji": "大きな",
+         "text": "おおきな",
+         "translate": "lớn"
+     },
+     {
+         "kanji": "大勢",
+         "text": "おおぜい",
+         "translate": "số lượng lớn của người dân"
+     },
+     {
+         "kanji": "お母さん",
+         "text": "おかあさん",
+         "translate": "(danh dự) mẹ"
+     },
+     {
+         "kanji": "お菓子",
+         "text": "おかし",
+         "translate": "kẹo, kẹo"
+     },
+     {
+         "kanji": "お金",
+         "text": "おかね",
+         "translate": "tiền"
+     },
+     {
+         "kanji": "起きる",
+         "text": "おきる",
+         "translate": "để có được"
+     },
+     {
+         "kanji": "置く",
+         "text": "おく",
+         "translate": "đặt"
+     },
+     {
+         "kanji": "奥さん",
+         "text": "おくさん",
+         "translate": "(danh dự) vợ"
+     },
+     {
+         "kanji": "お酒",
+         "text": "おさけ",
+         "translate": "rượu, rượu gạo"
+     },
+     {
+         "kanji": "お皿",
+         "text": "おさら",
+         "translate": "tấm, món ăn"
+     },
+     {
+         "kanji": "伯父/叔父",
+         "text": "おじいさん",
+         "translate": "ông nội, nam công dân cấp cao"
+     },
+     {
+         "kanji": "教える",
+         "text": "おしえる",
+         "translate": "để giảng dạy, để nói"
+     },
+     {
+         "kanji": "伯父/叔父",
+         "text": "おじさん",
+         "translate": "chú, người đàn ông trung niên"
+     },
+     {
+         "kanji": "押す",
+         "text": "おす",
+         "translate": "để thúc đẩy, để đóng dấu một cái gì đó"
+     },
+     {
+         "kanji": "遅い",
+         "text": "おそい",
+         "translate": "muộn, chậm"
+     },
+     {
+         "kanji": "お茶",
+         "text": "おちゃ",
+         "translate": "trà xanh"
+     },
+     {
+         "kanji": "お手洗い",
+         "text": "おてあらい",
+         "translate": "phòng tắm"
+     },
+     {
+         "kanji": "お父さん",
+         "text": "おとうさん",
+         "translate": "(danh dự) cha"
+     },
+     {
+         "kanji": "弟",
+         "text": "おとうと",
+         "translate": "em trai"
+     },
+     {
+         "kanji": "男",
+         "text": "おとこ",
+         "translate": "Man"
+     },
+     {
+         "kanji": "男の子",
+         "text": "おとこのこ",
+         "translate": "Boy"
+     },
+     {
+         "kanji": "一昨日",
+         "text": "おととい",
+         "translate": "Ngày hôm kia"
+     },
+     {
+         "kanji": "一昨年",
+         "text": "おととし",
+         "translate": "năm trước khi cuối cùng"
+     },
+     {
+         "kanji": "大人",
+         "text": "おとな",
+         "translate": "người lớn"
+     },
+     {
+         "text": "おなか",
+         "translate": "dạ dày"
+     },
+     {
+         "kanji": "同じ",
+         "text": "おなじ",
+         "translate": "cùng"
+     },
+     {
+         "kanji": "お兄さん",
+         "text": "おにいさん",
+         "translate": "(danh dự) anh trai"
+     },
+     {
+         "kanji": "お姉さん",
+         "text": "おねえさん",
+         "translate": "(danh dự) chị gái"
+     },
+     {
+         "text": "おばあさん",
+         "translate": "bà, nữ là công dân cấp cao"
+     },
+     {
+         "kanji": "伯母さん/叔母さん",
+         "text": "おばさん",
+         "translate": "dì"
+     },
+     {
+         "kanji": "お風呂",
+         "text": "おふろ",
+         "translate": "Bath"
+     },
+     {
+         "kanji": "お弁当",
+         "text": "おべんとう",
+         "translate": "ăn trưa đóng hộp"
+     },
+     {
+         "kanji": "覚える",
+         "text": "おぼえる",
+         "translate": "để nhớ"
+     },
+     {
+         "text": "おまわりさん",
+         "translate": "thân thiện với hạn cho cảnh sát"
+     },
+     {
+         "kanji": "重い",
+         "text": "おもい",
+         "translate": "nặng"
+     },
+     {
+         "text": "おもしろい",
+         "translate": "thú vị"
+     },
+     {
+         "kanji": "泳ぐ",
+         "text": "およぐ",
+         "translate": "bơi"
+     },
+     {
+         "kanji": "降りる",
+         "text": "おりる",
+         "translate": "để có được tắt, để xuống"
+     },
+     {
+         "kanji": "終る",
+         "text": "おわる",
+         "translate": "để kết thúc"
+     },
+     {
+         "kanji": "音楽",
+         "text": "おんがく",
+         "translate": "âm nhạc"
+     },
+     {
+         "kanji": "女",
+         "text": "おんな",
+         "translate": "người phụ nữ"
+     },
+     {
+         "kanji": "女の子",
+         "text": "おんなのこ",
+         "translate": "Game"
+     },
+     {
+         "kanji": "外国",
+         "text": "がいこく",
+         "translate": "nước ngoài"
+     },
+     {
+         "kanji": "外国人",
+         "text": "がいこくじん",
+         "translate": "người nước ngoài"
+     },
+     {
+         "kanji": "会社",
+         "text": "かいしゃ",
+         "translate": "Công ty"
+     },
+     {
+         "kanji": "階段",
+         "text": "かいだん",
+         "translate": "Cầu thang"
+     },
+     {
+         "kanji": "買い物",
+         "text": "かいもの",
+         "translate": "mua sắm"
+     },
+     {
+         "kanji": "買う",
+         "text": "かう",
+         "translate": "mua"
+     },
+     {
+         "kanji": "返す",
+         "text": "かえす",
+         "translate": "trở lại một cái gì đó"
+     },
+     {
+         "kanji": "帰る",
+         "text": "かえる",
+         "translate": "quay trở lại"
+     },
+     {
+         "text": "かかる",
+         "translate": "mất thời gian hay tiền bạc"
+     },
+     {
+         "text": "かぎ",
+         "translate": "chính"
+     },
+     {
+         "kanji": "書く",
+         "text": "かく",
+         "translate": "viết"
+     },
+     {
+         "kanji": "学生",
+         "text": "がくせい",
+         "translate": "sinh viên"
+     },
+     {
+         "text": "かける",
+         "translate": "gọi qua điện thoại"
+     },
+     {
+         "kanji": "傘",
+         "text": "かさ",
+         "translate": "Umbrella"
+     },
+     {
+         "kanji": "貸す",
+         "text": "かす",
+         "translate": "cho vay"
+     },
+     {
+         "kanji": "風",
+         "text": "かぜ",
+         "translate": "gió"
+     },
+     {
+         "kanji": "風邪",
+         "text": "かぜ",
+         "translate": "cảm lạnh"
+     },
+     {
+         "kanji": "家族",
+         "text": "かぞく",
+         "translate": "Gia đình"
+     },
+     {
+         "kanji": "方",
+         "text": "かた",
+         "translate": "người, cách làm"
+     },
+     {
+         "kanji": "学校",
+         "text": "がっこう",
+         "translate": "trường"
+     },
+     {
+         "text": "カップ",
+         "translate": "Cup"
+     },
+     {
+         "kanji": "家庭",
+         "text": "かてい",
+         "translate": "hộ gia đình"
+     },
+     {
+         "kanji": "角",
+         "text": "かど",
+         "translate": "một góc"
+     },
+     {
+         "text": "かばん",
+         "translate": "túi xách, giỏ"
+     },
+     {
+         "kanji": "花瓶",
+         "text": "かびん",
+         "translate": "một chiếc bình"
+     },
+     {
+         "kanji": "紙",
+         "text": "かみ",
+         "translate": "giấy"
+     },
+     {
+         "text": "カメラ",
+         "translate": "máy ảnh"
+     },
+     {
+         "kanji": "火曜日",
+         "text": "かようび",
+         "translate": "Thứ ba"
+     },
+     {
+         "kanji": "辛い",
+         "text": "からい",
+         "translate": "cay"
+     },
+     {
+         "kanji": "体",
+         "text": "からだ",
+         "translate": "cơ thể"
+     },
+     {
+         "kanji": "借りる",
+         "text": "かりる",
+         "translate": "vay"
+     },
+     {
+         "kanji": "軽い",
+         "text": "かるい",
+         "translate": "ánh sáng"
+     },
+     {
+         "text": "カレー",
+         "translate": "Curry"
+     },
+     {
+         "text": "カレンダー",
+         "translate": "lịch"
+     },
+     {
+         "kanji": "川/河",
+         "text": "かわ",
+         "translate": "sông"
+     },
+     {
+         "text": "かわいい",
+         "translate": "dễ thương"
+     },
+     {
+         "kanji": "漢字",
+         "text": "かんじ",
+         "translate": "ký tự Trung Quốc"
+     },
+     {
+         "kanji": "木",
+         "text": "き",
+         "translate": "cây, gỗ"
+     },
+     {
+         "kanji": "黄色",
+         "text": "きいろ",
+         "translate": "vàng"
+     },
+     {
+         "kanji": "黄色い",
+         "text": "きいろい",
+         "translate": "vàng"
+     },
+     {
+         "kanji": "消える",
+         "text": "きえる",
+         "translate": "biến mất"
+     },
+     {
+         "kanji": "聞く",
+         "text": "きく",
+         "translate": "để nghe, để nghe, để hỏi"
+     },
+     {
+         "kanji": "北",
+         "text": "きた",
+         "translate": "Bắc"
+     },
+     {
+         "text": "ギター",
+         "translate": "Guitar"
+     },
+     {
+         "kanji": "汚い",
+         "text": "きたない",
+         "translate": "bẩn"
+     },
+     {
+         "kanji": "喫茶店",
+         "text": "きっさてん",
+         "translate": "phòng chờ cà phê"
+     },
+     {
+         "kanji": "切手",
+         "text": "きって",
+         "translate": "tem bưu chính"
+     },
+     {
+         "kanji": "切符",
+         "text": "きっぷ",
+         "translate": "vé"
+     },
+     {
+         "kanji": "昨日",
+         "text": "きのう",
+         "translate": "Hôm qua"
+     },
+     {
+         "kanji": "九",
+         "text": "きゅう / く",
+         "translate": "chín"
+     },
+     {
+         "kanji": "牛肉",
+         "text": "ぎゅうにく",
+         "translate": "thịt bò"
+     },
+     {
+         "kanji": "牛乳",
+         "text": "ぎゅうにゅう",
+         "translate": "sữa"
+     },
+     {
+         "kanji": "今日",
+         "text": "きょう",
+         "translate": "Hôm nay"
+     },
+     {
+         "kanji": "教室",
+         "text": "きょうしつ",
+         "translate": "lớp học"
+     },
+     {
+         "kanji": "兄弟",
+         "text": "きょうだい",
+         "translate": "(khiêm tốn) anh chị em ruột"
+     },
+     {
+         "kanji": "去年",
+         "text": "きょねん",
+         "translate": "năm ngoái"
+     },
+     {
+         "kanji": "嫌い",
+         "text": "きらい",
+         "translate": "ghét"
+     },
+     {
+         "kanji": "切る",
+         "text": "きる",
+         "translate": "cắt giảm"
+     },
+     {
+         "kanji": "着る",
+         "text": "きる",
+         "translate": "để đưa vào từ vai xuống"
+     },
+     {
+         "text": "きれい",
+         "translate": "đẹp, sạch sẽ"
+     },
+     {
+         "text": "キロ/キログラム",
+         "translate": "kg"
+     },
+     {
+         "text": "キロ/キロメートル",
+         "translate": "km"
+     },
+     {
+         "kanji": "銀行",
+         "text": "ぎんこう",
+         "translate": "Ngân hàng"
+     },
+     {
+         "kanji": "金曜日",
+         "text": "きんようび",
+         "translate": "Thứ sáu"
+     },
+     {
+         "kanji": "薬",
+         "text": "くすり",
+         "translate": "y học"
+     },
+     {
+         "text": "ください",
+         "translate": "Hãy"
+     },
+     {
+         "kanji": "果物",
+         "text": "くだもの",
+         "translate": "trái cây"
+     },
+     {
+         "kanji": "口",
+         "text": "くち",
+         "translate": "miệng, mở"
+     },
+     {
+         "kanji": "靴",
+         "text": "くつ",
+         "translate": "giày dép"
+     },
+     {
+         "kanji": "靴下",
+         "text": "くつした",
+         "translate": "Socks"
+     },
+     {
+         "kanji": "国",
+         "text": "くに",
+         "translate": "đất nước"
+     },
+     {
+         "kanji": "曇り",
+         "text": "くもり",
+         "translate": "thời tiết nhiều mây"
+     },
+     {
+         "kanji": "曇る",
+         "text": "くもる",
+         "translate": "để trở thành mây, để trở thành mờ"
+     },
+     {
+         "kanji": "暗い",
+         "text": "くらい",
+         "translate": "Gloomy"
+     },
+     {
+         "text": "クラス",
+         "translate": "lớp"
+     },
+     {
+         "text": "グラム",
+         "translate": "gram"
+     },
+     {
+         "kanji": "来る",
+         "text": "くる",
+         "translate": "đến"
+     },
+     {
+         "kanji": "車",
+         "text": "くるま",
+         "translate": "xe hơi, xe"
+     },
+     {
+         "kanji": "黒",
+         "text": "くろ",
+         "translate": "đen"
+     },
+     {
+         "kanji": "黒い",
+         "text": "くろい",
+         "translate": "màu đen"
+     },
+     {
+         "kanji": "警官",
+         "text": "けいかん",
+         "translate": "cảnh sát"
+     },
+     {
+         "kanji": "今朝",
+         "text": "けさ",
+         "translate": "sáng nay"
+     },
+     {
+         "kanji": "消す",
+         "text": "けす",
+         "translate": "xóa, tắt điện"
+     },
+     {
+         "kanji": "結構",
+         "text": "けっこう",
+         "translate": "lộng lẫy, đủ"
+     },
+     {
+         "kanji": "結婚",
+         "text": "けっこん",
+         "translate": "hôn nhân"
+     },
+     {
+         "kanji": "月曜日",
+         "text": "げつようび",
+         "translate": "thứ hai"
+     },
+     {
+         "kanji": "玄関",
+         "text": "げんかん",
+         "translate": "hội nhập"
+     },
+     {
+         "kanji": "元気",
+         "text": "げんき",
+         "translate": "sức khỏe, sức sống"
+     },
+     {
+         "kanji": "五",
+         "text": "ご",
+         "translate": "năm"
+     },
+     {
+         "kanji": "公園",
+         "text": "こうえん",
+         "translate": "công viên"
+     },
+     {
+         "kanji": "交差点",
+         "text": "こうさてん",
+         "translate": "ngã tư"
+     },
+     {
+         "kanji": "紅茶",
+         "text": "こうちゃ",
+         "translate": "trà đen"
+     },
+     {
+         "kanji": "交番",
+         "text": "こうばん",
+         "translate": "hộp cảnh sát"
+     },
+     {
+         "kanji": "声",
+         "text": "こえ",
+         "translate": "giọng nói"
+     },
+     {
+         "text": "コート",
+         "translate": "lông, sân tennis"
+     },
+     {
+         "text": "コーヒー",
+         "translate": "Máy pha cà phê"
+     },
+     {
+         "text": "ここ",
+         "translate": "Dưới đây"
+     },
+     {
+         "kanji": "午後",
+         "text": "ごご",
+         "translate": "buổi chiều"
+     },
+     {
+         "kanji": "九日",
+         "text": "ここのか",
+         "translate": "chín ngày, ngày thứ chín"
+     },
+     {
+         "kanji": "九つ",
+         "text": "ここのつ",
+         "translate": "chín"
+     },
+     {
+         "kanji": "午前",
+         "text": "ごぜん",
+         "translate": "buổi sáng"
+     },
+     {
+         "kanji": "答える",
+         "text": "こたえる",
+         "translate": "để trả lời"
+     },
+     {
+         "text": "こちら",
+         "translate": "người này hay cách"
+     },
+     {
+         "text": "こっち",
+         "translate": "người này hay cách"
+     },
+     {
+         "text": "コップ",
+         "translate": "một ly"
+     },
+     {
+         "kanji": "今年",
+         "text": "ことし",
+         "translate": "năm nay"
+     },
+     {
+         "kanji": "言葉",
+         "text": "ことば",
+         "translate": "từ, ngôn ngữ"
+     },
+     {
+         "kanji": "子供",
+         "text": "こども",
+         "translate": "trẻ em"
+     },
+     {
+         "text": "この",
+         "translate": "Điều này"
+     },
+     {
+         "kanji": "御飯",
+         "text": "ごはん",
+         "translate": "cơm, bữa ăn"
+     },
+     {
+         "text": "コピーする",
+         "translate": "để sao chép"
+     },
+     {
+         "kanji": "困る",
+         "text": "こまる",
+         "translate": "phải lo lắng"
+     },
+     {
+         "text": "これ",
+         "translate": "Điều này"
+     },
+     {
+         "kanji": "今月",
+         "text": "こんげつ",
+         "translate": "tháng này"
+     },
+     {
+         "kanji": "今週",
+         "text": "こんしゅう",
+         "translate": "tuần này"
+     },
+     {
+         "text": "こんな",
+         "translate": "như vậy"
+     },
+     {
+         "kanji": "今晩",
+         "text": "こんばん",
+         "translate": "tối nay"
+     },
+     {
+         "text": "さあ",
+         "translate": "cũng ..."
+     },
+     {
+         "kanji": "財布",
+         "text": "さいふ",
+         "translate": "Wallet"
+     },
+     {
+         "kanji": "魚",
+         "text": "さかな",
+         "translate": "cá"
+     },
+     {
+         "kanji": "先",
+         "text": "さき",
+         "translate": "tương lai, trước"
+     },
+     {
+         "kanji": "咲く",
+         "text": "さく",
+         "translate": "nở"
+     },
+     {
+         "kanji": "作文",
+         "text": "さくぶん",
+         "translate": "thành phần, viết"
+     },
+     {
+         "kanji": "差す",
+         "text": "さす",
+         "translate": "để giang tay ra, để nâng cao một chiếc ô"
+     },
+     {
+         "kanji": "雑誌",
+         "text": "ざっし",
+         "translate": "tạp chí"
+     },
+     {
+         "kanji": "砂糖",
+         "text": "さとう",
+         "translate": "đường"
+     },
+     {
+         "kanji": "寒い",
+         "text": "さむい",
+         "translate": "lạnh"
+     },
+     {
+         "kanji": "さ来年",
+         "text": "さらいねん",
+         "translate": "năm sau khi tiếp"
+     },
+     {
+         "kanji": "三",
+         "text": "さん",
+         "translate": "ba"
+     },
+     {
+         "kanji": "散歩",
+         "text": "さんぽする",
+         "translate": "để đi dạo"
+     },
+     {
+         "kanji": "四",
+         "text": "し / よん",
+         "translate": "bốn"
+     },
+     {
+         "kanji": "塩",
+         "text": "しお",
+         "translate": "Salt"
+     },
+     {
+         "text": "しかし",
+         "translate": "Tuy nhiên"
+     },
+     {
+         "kanji": "時間",
+         "text": "じかん",
+         "translate": "Thời gian"
+     },
+     {
+         "kanji": "仕事",
+         "text": "しごと",
+         "translate": "công việc"
+     },
+     {
+         "kanji": "辞書",
+         "text": "じしょ",
+         "translate": "từ điển"
+     },
+     {
+         "kanji": "静か",
+         "text": "しずか",
+         "translate": "Quiet"
+     },
+     {
+         "kanji": "下",
+         "text": "した",
+         "translate": "dưới đây"
+     },
+     {
+         "kanji": "七",
+         "text": "しち / なな",
+         "translate": "bảy"
+     },
+     {
+         "kanji": "質問",
+         "text": "しつもん",
+         "translate": "Câu hỏi"
+     },
+     {
+         "kanji": "自転車",
+         "text": "じてんしゃ",
+         "translate": "xe đạp"
+     },
+     {
+         "kanji": "自動車",
+         "text": "じどうしゃ",
+         "translate": "ô tô"
+     },
+     {
+         "kanji": "死ぬ",
+         "text": "しぬ",
+         "translate": "chết"
+     },
+     {
+         "kanji": "字引",
+         "text": "じびき",
+         "translate": "từ điển"
+     },
+     {
+         "kanji": "自分",
+         "text": "じぶん",
+         "translate": "mình"
+     },
+     {
+         "kanji": "閉まる",
+         "text": "しまる",
+         "translate": "đóng cửa, phải đóng cửa"
+     },
+     {
+         "kanji": "閉める",
+         "text": "しめる",
+         "translate": "để đóng một cái gì đó"
+     },
+     {
+         "kanji": "締める",
+         "text": "しめる",
+         "translate": "để buộc"
+     },
+     {
+         "text": "じゃ/じゃあ",
+         "translate": "cũng sau đó ..."
+     },
+     {
+         "kanji": "写真",
+         "text": "しゃしん",
+         "translate": "ảnh"
+     },
+     {
+         "text": "シャツ",
+         "translate": "áo sơ mi"
+     },
+     {
+         "text": "シャワー",
+         "translate": "vòi hoa sen"
+     },
+     {
+         "kanji": "十",
+         "text": "じゅう とお",
+         "translate": "Ten"
+     },
+     {
+         "kanji": "授業",
+         "text": "じゅぎょう",
+         "translate": "bài học, bài tập ở lớp"
+     },
+     {
+         "kanji": "宿題",
+         "text": "しゅくだい",
+         "translate": "bài tập về nhà"
+     },
+     {
+         "kanji": "上手",
+         "text": "じょうず",
+         "translate": "khéo léo"
+     },
+     {
+         "kanji": "丈夫",
+         "text": "じょうぶ",
+         "translate": "mạnh mẽ, bền"
+     },
+     {
+         "text": "しょうゆ",
+         "translate": "nước tương"
+     },
+     {
+         "kanji": "食堂",
+         "text": "しょくどう",
+         "translate": "phòng ăn"
+     },
+     {
+         "kanji": "知る",
+         "text": "しる",
+         "translate": "biết"
+     },
+     {
+         "kanji": "白",
+         "text": "しろ",
+         "translate": "trắng"
+     },
+     {
+         "kanji": "白い",
+         "text": "しろい",
+         "translate": "trắng"
+     },
+     {
+         "kanji": "新聞",
+         "text": "しんぶん",
+         "translate": "báo"
+     },
+     {
+         "kanji": "水曜日",
+         "text": "すいようび",
+         "translate": "Thứ tư"
+     },
+     {
+         "kanji": "吸う",
+         "text": "すう",
+         "translate": "với khói thuốc lá, để hút"
+     },
+     {
+         "text": "スカート",
+         "translate": "váy"
+     },
+     {
+         "kanji": "好き",
+         "text": "すき",
+         "translate": "dễ thương"
+     },
+     {
+         "kanji": "少ない",
+         "text": "すくない",
+         "translate": "một vài"
+     },
+     {
+         "text": "すぐに",
+         "translate": "ngay lập tức"
+     },
+     {
+         "kanji": "少し",
+         "text": "すこし",
+         "translate": "Rất ít"
+     },
+     {
+         "kanji": "涼しい",
+         "text": "すずしい",
+         "translate": "Làm mới"
+     },
+     {
+         "text": "ストーブ",
+         "translate": "nóng"
+     },
+     {
+         "text": "スプーン",
+         "translate": "Spoon"
+     },
+     {
+         "text": "スポーツ",
+         "translate": "Thể thao"
+     },
+     {
+         "text": "ズボン",
+         "translate": "quần"
+     },
+     {
+         "kanji": "住む",
+         "text": "すむ",
+         "translate": "sống trong"
+     },
+     {
+         "text": "スリッパ",
+         "translate": "Dép đi trong nhà"
+     },
+     {
+         "text": "する",
+         "translate": "làm"
+     },
+     {
+         "kanji": "座る",
+         "text": "すわる",
+         "translate": "ngồi"
+     },
+     {
+         "kanji": "背",
+         "text": "せ",
+         "translate": "chiều cao, vóc dáng"
+     },
+     {
+         "kanji": "生徒",
+         "text": "せいと",
+         "translate": "học sinh"
+     },
+     {
+         "text": "セーター",
+         "translate": "áo len, nhảy"
+     },
+     {
+         "text": "せっけん",
+         "translate": "nền kinh tế"
+     },
+     {
+         "kanji": "背広",
+         "text": "せびろ",
+         "translate": "phù hợp với kinh doanh"
+     },
+     {
+         "kanji": "狭い",
+         "text": "せまい",
+         "translate": "hẹp"
+     },
+     {
+         "text": "ゼロ",
+         "translate": "không"
+     },
+     {
+         "kanji": "千",
+         "text": "せん",
+         "translate": "Thousand"
+     },
+     {
+         "kanji": "先月",
+         "text": "せんげつ",
+         "translate": "tháng trước"
+     },
+     {
+         "kanji": "先週",
+         "text": "せんしゅう",
+         "translate": "tuần trước"
+     },
+     {
+         "kanji": "先生",
+         "text": "せんせい",
+         "translate": "giáo viên, bác sĩ"
+     },
+     {
+         "kanji": "洗濯",
+         "text": "せんたく",
+         "translate": "giặt"
+     },
+     {
+         "kanji": "全部",
+         "text": "ぜんぶ",
+         "translate": "tất cả"
+     },
+     {
+         "kanji": "掃除",
+         "text": "そうじする",
+         "translate": "để làm sạch, để quét"
+     },
+     {
+         "text": "そうして/そして",
+         "translate": "và"
+     },
+     {
+         "text": "そこ",
+         "translate": "nơi"
+     },
+     {
+         "text": "そちら",
+         "translate": "ở đó"
+     },
+     {
+         "text": "そっち",
+         "translate": "ở đó"
+     },
+     {
+         "kanji": "外",
+         "text": "そと",
+         "translate": "Bên ngoài"
+     },
+     {
+         "text": "その",
+         "translate": "đó"
+     },
+     {
+         "text": "そば",
+         "translate": "gần, bên cạnh"
+     },
+     {
+         "kanji": "空",
+         "text": "そら",
+         "translate": "Sky"
+     },
+     {
+         "text": "それ",
+         "translate": "mà"
+     },
+     {
+         "text": "それから",
+         "translate": "sau đó"
+     },
+     {
+         "text": "それでは",
+         "translate": "trong tình huống đó"
+     },
+     {
+         "kanji": "大学",
+         "text": "だいがく",
+         "translate": "đại học"
+     },
+     {
+         "kanji": "大使館",
+         "text": "たいしかん",
+         "translate": "Đại sứ quán"
+     },
+     {
+         "kanji": "大丈夫",
+         "text": "だいじょうぶ",
+         "translate": "tất cả các quyền"
+     },
+     {
+         "kanji": "大好き",
+         "text": "だいすき",
+         "translate": "là rất dễ thương"
+     },
+     {
+         "kanji": "大切",
+         "text": "たいせつ",
+         "translate": "quan trọng"
+     },
+     {
+         "kanji": "台所",
+         "text": "だいどころ",
+         "translate": "nhà bếp"
+     },
+     {
+         "text": "たいへん",
+         "translate": "rất"
+     },
+     {
+         "text": "たいへん",
+         "translate": "hoàn cảnh khó khăn"
+     },
+     {
+         "kanji": "高い",
+         "text": "たかい",
+         "translate": "cao, đắt tiền"
+     },
+     {
+         "text": "たくさん",
+         "translate": "nhiều"
+     },
+     {
+         "text": "タクシー",
+         "translate": "xe taxi"
+     },
+     {
+         "kanji": "出す",
+         "text": "だす",
+         "translate": "để đưa ra"
+     },
+     {
+         "kanji": "立つ",
+         "text": "たつ",
+         "translate": "đứng"
+     },
+     {
+         "text": "たて",
+         "translate": "chiều dài, chiều cao"
+     },
+     {
+         "kanji": "建物",
+         "text": "たてもの",
+         "translate": "xây dựng"
+     },
+     {
+         "kanji": "楽しい",
+         "text": "たのしい",
+         "translate": "thú vị"
+     },
+     {
+         "kanji": "頼む",
+         "text": "たのむ",
+         "translate": "hỏi"
+     },
+     {
+         "text": "たばこ",
+         "translate": "thuốc lá, thuốc lá"
+     },
+     {
+         "text": "たぶん",
+         "translate": "có thể"
+     },
+     {
+         "kanji": "食べ物",
+         "text": "たべもの",
+         "translate": "thực phẩm"
+     },
+     {
+         "kanji": "食べる",
+         "text": "たべる",
+         "translate": "ăn"
+     },
+     {
+         "kanji": "卵",
+         "text": "たまご",
+         "translate": "trứng"
+     },
+     {
+         "kanji": "誰",
+         "text": "だれ",
+         "translate": "người"
+     },
+     {
+         "kanji": "誰",
+         "text": "だれか",
+         "translate": "ai đó"
+     },
+     {
+         "kanji": "誕生日",
+         "text": "たんじょうび",
+         "translate": "sinh nhật"
+     },
+     {
+         "text": "だんだん",
+         "translate": "dần"
+     },
+     {
+         "kanji": "小さい",
+         "text": "ちいさい",
+         "translate": "ít"
+     },
+     {
+         "kanji": "小さな",
+         "text": "ちいさな",
+         "translate": "ít"
+     },
+     {
+         "kanji": "近い",
+         "text": "ちかい",
+         "translate": "gần"
+     },
+     {
+         "kanji": "違う",
+         "text": "ちがう",
+         "translate": "để khác biệt"
+     },
+     {
+         "kanji": "近く",
+         "text": "ちかく",
+         "translate": "gần"
+     },
+     {
+         "kanji": "地下鉄",
+         "text": "ちかてつ",
+         "translate": "tàu điện ngầm"
+     },
+     {
+         "kanji": "地図",
+         "text": "ちず",
+         "translate": "Bản đồ"
+     },
+     {
+         "kanji": "茶色",
+         "text": "ちゃいろ",
+         "translate": "nâu"
+     },
+     {
+         "text": "ちゃわん",
+         "translate": "vựa lúa"
+     },
+     {
+         "text": "ちょうど",
+         "translate": "chính xác"
+     },
+     {
+         "text": "ちょっと",
+         "translate": "hơi"
+     },
+     {
+         "kanji": "一日",
+         "text": "ついたち",
+         "translate": "đầu tiên của tháng"
+     },
+     {
+         "kanji": "使う",
+         "text": "つかう",
+         "translate": "sử dụng"
+     },
+     {
+         "kanji": "疲れる",
+         "text": "つかれる",
+         "translate": "cảm thấy mệt mỏi"
+     },
+     {
+         "kanji": "次",
+         "text": "つぎ",
+         "translate": "tiếp theo"
+     },
+     {
+         "kanji": "着く",
+         "text": "つく",
+         "translate": "để đi đến"
+     },
+     {
+         "kanji": "机",
+         "text": "つくえ",
+         "translate": "bàn"
+     },
+     {
+         "kanji": "作る",
+         "text": "つくる",
+         "translate": "để thực hiện"
+     },
+     {
+         "text": "つける",
+         "translate": "bật"
+     },
+     {
+         "kanji": "勤める",
+         "text": "つとめる",
+         "translate": "làm việc cho một người nào đó"
+     },
+     {
+         "text": "つまらない",
+         "translate": "nhàm chán"
+     },
+     {
+         "kanji": "冷たい",
+         "text": "つめたい",
+         "translate": "lạnh khi chạm vào"
+     },
+     {
+         "kanji": "強い",
+         "text": "つよい",
+         "translate": "mạnh mẽ"
+     },
+     {
+         "kanji": "手",
+         "text": "て",
+         "translate": "tay"
+     },
+     {
+         "text": "テープ",
+         "translate": "băng"
+     },
+     {
+         "text": "テーブル",
+         "translate": "bảng"
+     },
+     {
+         "text": "テープレコーダー",
+         "translate": "máy ghi âm"
+     },
+     {
+         "kanji": "出かける",
+         "text": "でかける",
+         "translate": "đi ra ngoài"
+     },
+     {
+         "kanji": "手紙",
+         "text": "てがみ",
+         "translate": "thư"
+     },
+     {
+         "text": "できる",
+         "translate": "để có thể"
+     },
+     {
+         "kanji": "出口",
+         "text": "でぐち",
+         "translate": "thoát"
+     },
+     {
+         "text": "テスト",
+         "translate": "kiểm tra"
+     },
+     {
+         "text": "では",
+         "translate": "với điều đó ..."
+     },
+     {
+         "text": "デパート",
+         "translate": "cửa hàng bách hóa"
+     },
+     {
+         "text": "でも",
+         "translate": "nhưng"
+     },
+     {
+         "kanji": "出る",
+         "text": "でる",
+         "translate": "xuất hiện, rời khỏi"
+     },
+     {
+         "text": "テレビ",
+         "translate": "truyền hình"
+     },
+     {
+         "kanji": "天気",
+         "text": "てんき",
+         "translate": "thời tiết"
+     },
+     {
+         "kanji": "電気",
+         "text": "でんき",
+         "translate": "điện, đèn điện"
+     },
+     {
+         "kanji": "電車",
+         "text": "でんしゃ",
+         "translate": "tàu điện"
+     },
+     {
+         "kanji": "電話",
+         "text": "でんわ",
+         "translate": "điện thoại"
+     },
+     {
+         "kanji": "戸",
+         "text": "と",
+         "translate": "Cửa phong cách Nhật Bản"
+     },
+     {
+         "text": "ドア",
+         "translate": "Cửa phong cách phương Tây"
+     },
+     {
+         "text": "トイレ",
+         "translate": "nhà vệ sinh"
+     },
+     {
+         "text": "どう",
+         "translate": "như thế nào, bằng cách nào"
+     },
+     {
+         "text": "どうして",
+         "translate": "lý do gì"
+     },
+     {
+         "text": "どうぞ",
+         "translate": "xin vui lòng"
+     },
+     {
+         "kanji": "動物",
+         "text": "どうぶつ",
+         "translate": "động vật"
+     },
+     {
+         "text": "どうも",
+         "translate": "nhờ"
+     },
+     {
+         "kanji": "遠い",
+         "text": "とおい",
+         "translate": "đến nay"
+     },
+     {
+         "kanji": "十日",
+         "text": "とおか",
+         "translate": "mười ngày, ngày thứ mười"
+     },
+     {
+         "kanji": "時々",
+         "text": "ときどき",
+         "translate": "đôi khi"
+     },
+     {
+         "kanji": "時計",
+         "text": "とけい",
+         "translate": "đồng hồ, đồng hồ"
+     },
+     {
+         "text": "どこ",
+         "translate": "nơi"
+     },
+     {
+         "kanji": "所",
+         "text": "ところ",
+         "translate": "nơi"
+     },
+     {
+         "kanji": "年",
+         "text": "とし",
+         "translate": "năm"
+     },
+     {
+         "kanji": "図書館",
+         "text": "としょかん",
+         "translate": "thư viện"
+     },
+     {
+         "text": "どちら",
+         "translate": "mà hai"
+     },
+     {
+         "text": "どっち",
+         "translate": "mà"
+     },
+     {
+         "text": "とても",
+         "translate": "rất"
+     },
+     {
+         "text": "どなた",
+         "translate": "người"
+     },
+     {
+         "kanji": "隣",
+         "text": "となり",
+         "translate": "bên cạnh"
+     },
+     {
+         "text": "どの",
+         "translate": "mà"
+     },
+     {
+         "kanji": "飛ぶ",
+         "text": "とぶ",
+         "translate": "để bay, nhảy"
+     },
+     {
+         "kanji": "止まる",
+         "text": "とまる",
+         "translate": "đến để ngăn chặn một"
+     },
+     {
+         "kanji": "友達",
+         "text": "ともだち",
+         "translate": "người bạn"
+     },
+     {
+         "kanji": "土曜日",
+         "text": "どようび",
+         "translate": "Thứ bảy"
+     },
+     {
+         "kanji": "鳥",
+         "text": "とり",
+         "translate": "gia cầm"
+     },
+     {
+         "kanji": "とり肉",
+         "text": "とりにく",
+         "translate": "thịt gà"
+     },
+     {
+         "kanji": "取る",
+         "text": "とる",
+         "translate": "để có một cái gì đó"
+     },
+     {
+         "kanji": "撮る",
+         "text": "とる",
+         "translate": "để chụp ảnh hoặc quay phim"
+     },
+     {
+         "text": "どれ",
+         "translate": "mà (ba hoặc nhiều hơn)"
+     },
+     {
+         "text": "ナイフ",
+         "translate": "dao"
+     },
+     {
+         "kanji": "中",
+         "text": "なか",
+         "translate": "trung"
+     },
+     {
+         "kanji": "長い",
+         "text": "ながい",
+         "translate": "dài"
+     },
+     {
+         "kanji": "鳴く",
+         "text": "なく",
+         "translate": "tiếng ồn của động vật. để chirp, tiếng gầm hay tiếng kêu"
+     },
+     {
+         "kanji": "無くす",
+         "text": "なくす",
+         "translate": "để mất một cái gì đó"
+     },
+     {
+         "text": "なぜ",
+         "translate": "lý do tại sao"
+     },
+     {
+         "kanji": "夏",
+         "text": "なつ",
+         "translate": "mùa hè"
+     },
+     {
+         "kanji": "夏休み",
+         "text": "なつやすみ",
+         "translate": "kỳ nghỉ hè"
+     },
+     {
+         "text": "など",
+         "translate": "vân vân"
+     },
+     {
+         "kanji": "七つ",
+         "text": "ななつ",
+         "translate": "bảy"
+     },
+     {
+         "kanji": "七日",
+         "text": "なのか",
+         "translate": "bảy ngày, ngày thứ bảy"
+     },
+     {
+         "kanji": "名前",
+         "text": "なまえ",
+         "translate": "tên"
+     },
+     {
+         "kanji": "習う",
+         "text": "ならう",
+         "translate": "học"
+     },
+     {
+         "kanji": "並ぶ",
+         "text": "ならぶ",
+         "translate": "xếp hàng, đứng trong một dòng"
+     },
+     {
+         "kanji": "並べる",
+         "text": "ならべる",
+         "translate": "xếp hàng, thành lập"
+     },
+     {
+         "text": "なる",
+         "translate": "để trở thành"
+     },
+     {
+         "kanji": "何",
+         "text": "なん/なに",
+         "translate": "những gì"
+     },
+     {
+         "kanji": "二",
+         "text": "に",
+         "translate": "hai"
+     },
+     {
+         "kanji": "賑やか",
+         "text": "にぎやか",
+         "translate": "nhộn nhịp, bận rộn"
+     },
+     {
+         "kanji": "肉",
+         "text": "にく",
+         "translate": "thịt"
+     },
+     {
+         "kanji": "西",
+         "text": "にし",
+         "translate": "tây"
+     },
+     {
+         "kanji": "日曜日",
+         "text": "にちようび",
+         "translate": "Chủ Nhật"
+     },
+     {
+         "kanji": "荷物",
+         "text": "にもつ",
+         "translate": "hành lý"
+     },
+     {
+         "text": "ニュース",
+         "translate": "tin tức"
+     },
+     {
+         "kanji": "庭",
+         "text": "にわ",
+         "translate": "vườn"
+     },
+     {
+         "kanji": "脱ぐ",
+         "text": "ぬぐ",
+         "translate": "cởi quần áo"
+     },
+     {
+         "kanji": "温い",
+         "text": "ぬるい",
+         "translate": "luke ấm"
+     },
+     {
+         "text": "ネクタイ",
+         "translate": "cà vạt, cà vạt"
+     },
+     {
+         "kanji": "猫",
+         "text": "ねこ",
+         "translate": "mèo"
+     },
+     {
+         "kanji": "寝る",
+         "text": "ねる",
+         "translate": "đi ngủ, ngủ"
+     },
+     {
+         "text": "ノート",
+         "translate": "máy tính xách tay, cuốn sách tập thể dục"
+     },
+     {
+         "kanji": "登る",
+         "text": "のぼる",
+         "translate": "leo lên"
+     },
+     {
+         "kanji": "飲み物",
+         "text": "のみもの",
+         "translate": "một thức uống"
+     },
+     {
+         "kanji": "飲む",
+         "text": "のむ",
+         "translate": "uống"
+     },
+     {
+         "kanji": "乗る",
+         "text": "のる",
+         "translate": "để có được trên, đi xe"
+     },
+     {
+         "kanji": "歯",
+         "text": "は",
+         "translate": "răng"
+     },
+     {
+         "text": "パーティー",
+         "translate": "bên"
+     },
+     {
+         "text": "はい",
+         "translate": "có"
+     },
+     {
+         "kanji": "灰皿",
+         "text": "はいざら",
+         "translate": "gạt tàn"
+     },
+     {
+         "kanji": "入る",
+         "text": "はいる",
+         "translate": "nhập, chứa"
+     },
+     {
+         "kanji": "葉書",
+         "text": "はがき",
+         "translate": "bưu thiếp"
+     },
+     {
+         "text": "はく",
+         "translate": "để mặc, để đưa vào quần"
+     },
+     {
+         "kanji": "箱",
+         "text": "はこ",
+         "translate": "hộp"
+     },
+     {
+         "kanji": "橋",
+         "text": "はし",
+         "translate": "cầu"
+     },
+     {
+         "text": "はし",
+         "translate": "đũa"
+     },
+     {
+         "kanji": "始まる",
+         "text": "はじまる",
+         "translate": "để bắt đầu"
+     },
+     {
+         "kanji": "初め/始め",
+         "text": "はじめ",
+         "translate": "bắt đầu"
+     },
+     {
+         "kanji": "初めて",
+         "text": "はじめて",
+         "translate": "lần đầu tiên"
+     },
+     {
+         "kanji": "走る",
+         "text": "はしる",
+         "translate": "để chạy"
+     },
+     {
+         "text": "バス",
+         "translate": "xe buýt"
+     },
+     {
+         "text": "バター",
+         "translate": "bơ"
+     },
+     {
+         "kanji": "二十歳",
+         "text": "はたち",
+         "translate": "20 tuổi, năm 20"
+     },
+     {
+         "kanji": "働く",
+         "text": "はたらく",
+         "translate": "làm việc"
+     },
+     {
+         "kanji": "八",
+         "text": "はち",
+         "translate": "tám"
+     },
+     {
+         "kanji": "二十日",
+         "text": "はつか",
+         "translate": "hai mươi ngày, hai mươi"
+     },
+     {
+         "kanji": "花",
+         "text": "はな",
+         "translate": "hoa"
+     },
+     {
+         "kanji": "鼻",
+         "text": "はな",
+         "translate": "mũi"
+     },
+     {
+         "kanji": "話",
+         "text": "はなし",
+         "translate": "nói chuyện, câu chuyện"
+     },
+     {
+         "kanji": "話す",
+         "text": "はなす",
+         "translate": "để nói chuyện"
+     },
+     {
+         "kanji": "早い",
+         "text": "はやい",
+         "translate": "đầu"
+     },
+     {
+         "kanji": "速い",
+         "text": "はやい",
+         "translate": "nhanh chóng"
+     },
+     {
+         "kanji": "春",
+         "text": "はる",
+         "translate": "mùa xuân"
+     },
+     {
+         "kanji": "貼る",
+         "text": "はる",
+         "translate": "gắn bó"
+     },
+     {
+         "kanji": "晴れ",
+         "text": "はれ",
+         "translate": "thời tiết rõ ràng"
+     },
+     {
+         "kanji": "晴れる",
+         "text": "はれる",
+         "translate": "là nắng"
+     },
+     {
+         "kanji": "半",
+         "text": "はん",
+         "translate": "một nửa"
+     },
+     {
+         "kanji": "晩",
+         "text": "ばん",
+         "translate": "buổi tối"
+     },
+     {
+         "text": "パン",
+         "translate": "bánh mì"
+     },
+     {
+         "text": "ハンカチ",
+         "translate": "khăn tay"
+     },
+     {
+         "kanji": "番号",
+         "text": "ばんごう",
+         "translate": "số"
+     },
+     {
+         "kanji": "晩御飯",
+         "text": "ばんごはん",
+         "translate": "bữa ăn tối"
+     },
+     {
+         "kanji": "半分",
+         "text": "はんぶん",
+         "translate": "nửa phút"
+     },
+     {
+         "kanji": "東",
+         "text": "ひがし",
+         "translate": "đông"
+     },
+     {
+         "kanji": "引く",
+         "text": "ひく",
+         "translate": "để kéo"
+     },
+     {
+         "kanji": "弾く",
+         "text": "ひく",
+         "translate": "chơi một nhạc cụ có dây, bao gồm piano"
+     },
+     {
+         "kanji": "低い",
+         "text": "ひくい",
+         "translate": "Tóm lại, thấp"
+     },
+     {
+         "kanji": "飛行機",
+         "text": "ひこうき",
+         "translate": "máy bay"
+     },
+     {
+         "kanji": "左",
+         "text": "ひだり",
+         "translate": "phía bên tay trái"
+     },
+     {
+         "kanji": "人",
+         "text": "ひと",
+         "translate": "người"
+     },
+     {
+         "kanji": "一つ",
+         "text": "ひとつ",
+         "translate": "một"
+     },
+     {
+         "kanji": "一月",
+         "text": "ひとつき",
+         "translate": "một tháng"
+     },
+     {
+         "kanji": "一人",
+         "text": "ひとり",
+         "translate": "một người"
+     },
+     {
+         "kanji": "暇",
+         "text": "ひま",
+         "translate": "thời gian miễn phí"
+     },
+     {
+         "kanji": "百",
+         "text": "ひゃく",
+         "translate": "trăm"
+     },
+     {
+         "kanji": "病院",
+         "text": "びょういん",
+         "translate": "bệnh viện"
+     },
+     {
+         "kanji": "病気",
+         "text": "びょうき",
+         "translate": "bệnh"
+     },
+     {
+         "kanji": "昼",
+         "text": "ひる",
+         "translate": "buổi trưa, ban ngày"
+     },
+     {
+         "kanji": "昼御飯",
+         "text": "ひるごはん",
+         "translate": "ăn trưa"
+     },
+     {
+         "kanji": "広い",
+         "text": "ひろい",
+         "translate": "rộng rãi, rộng"
+     },
+     {
+         "text": "フィルム",
+         "translate": "cuộn phim"
+     },
+     {
+         "kanji": "封筒",
+         "text": "ふうとう",
+         "translate": "phong bì"
+     },
+     {
+         "text": "プール",
+         "translate": "hồ bơi"
+     },
+     {
+         "text": "フォーク",
+         "translate": "ngã ba"
+     },
+     {
+         "kanji": "吹く",
+         "text": "ふく",
+         "translate": "để thổi"
+     },
+     {
+         "kanji": "服",
+         "text": "ふく",
+         "translate": "quần áo"
+     },
+     {
+         "kanji": "二つ",
+         "text": "ふたつ",
+         "translate": "hai"
+     },
+     {
+         "kanji": "豚肉",
+         "text": "ぶたにく",
+         "translate": "thịt lợn"
+     },
+     {
+         "kanji": "二人",
+         "text": "ふたり",
+         "translate": "hai người"
+     },
+     {
+         "kanji": "二日",
+         "text": "ふつか",
+         "translate": "hai ngày, ngày thứ hai của tháng"
+     },
+     {
+         "kanji": "太い",
+         "text": "ふとい",
+         "translate": "chất béo"
+     },
+     {
+         "kanji": "冬",
+         "text": "ふゆ",
+         "translate": "mùa đông"
+     },
+     {
+         "kanji": "降る",
+         "text": "ふる",
+         "translate": "giảm, ví dụ mưa hoặc tuyết"
+     },
+     {
+         "kanji": "古い",
+         "text": "ふるい",
+         "translate": "cũ (không sử dụng cho người)"
+     },
+     {
+         "text": "ふろ",
+         "translate": "tắm"
+     },
+     {
+         "kanji": "文章",
+         "text": "ぶんしょう",
+         "translate": "câu, văn bản"
+     },
+     {
+         "text": "ページ",
+         "translate": "trang"
+     },
+     {
+         "kanji": "下手",
+         "text": "へた",
+         "translate": "vụng về"
+     },
+     {
+         "text": "ベッド",
+         "translate": "giường"
+     },
+     {
+         "text": "ペット",
+         "translate": "vật nuôi"
+     },
+     {
+         "kanji": "部屋",
+         "text": "へや",
+         "translate": "phòng"
+     },
+     {
+         "kanji": "辺",
+         "text": "へん",
+         "translate": "khu vực"
+     },
+     {
+         "text": "ペン",
+         "translate": "bút"
+     },
+     {
+         "kanji": "勉強",
+         "text": "べんきょうする",
+         "translate": "để nghiên cứu"
+     },
+     {
+         "kanji": "便利",
+         "text": "べんり",
+         "translate": "hữu ích, thuận tiện"
+     },
+     {
+         "kanji": "帽子",
+         "text": "ぼうし",
+         "translate": "mũ"
+     },
+     {
+         "text": "ボールペン",
+         "translate": "bút bi"
+     },
+     {
+         "text": "ほか",
+         "translate": "khác, phần còn lại"
+     },
+     {
+         "text": "ポケット",
+         "translate": "túi"
+     },
+     {
+         "kanji": "欲しい",
+         "text": "ほしい",
+         "translate": "muốn"
+     },
+     {
+         "text": "ポスト",
+         "translate": "bài"
+     },
+     {
+         "kanji": "細い",
+         "text": "ほそい",
+         "translate": "mỏng"
+     },
+     {
+         "text": "ボタン",
+         "translate": "nút"
+     },
+     {
+         "text": "ホテル",
+         "translate": "khách sạn"
+     },
+     {
+         "kanji": "本",
+         "text": "ほん",
+         "translate": "cuốn sách"
+     },
+     {
+         "kanji": "本棚",
+         "text": "ほんだな",
+         "translate": "giá sách"
+     },
+     {
+         "text": "ほんとう",
+         "translate": "sự thật"
+     },
+     {
+         "kanji": "毎朝",
+         "text": "まいあさ",
+         "translate": "mỗi buổi sáng"
+     },
+     {
+         "kanji": "毎月",
+         "text": "まいげつ/まいつき",
+         "translate": "mỗi tháng"
+     },
+     {
+         "kanji": "毎週",
+         "text": "まいしゅう",
+         "translate": "mỗi tuần"
+     },
+     {
+         "kanji": "毎日",
+         "text": "まいにち",
+         "translate": "mỗi ngày"
+     },
+     {
+         "kanji": "毎年",
+         "text": "まいねん/まいとし",
+         "translate": "mỗi năm"
+     },
+     {
+         "kanji": "毎晩",
+         "text": "まいばん",
+         "translate": "mỗi đêm"
+     },
+     {
+         "kanji": "前",
+         "text": "まえ",
+         "translate": "trước"
+     },
+     {
+         "kanji": "曲る",
+         "text": "まがる",
+         "translate": "biến, uốn cong"
+     },
+     {
+         "text": "まずい",
+         "translate": "khó chịu"
+     },
+     {
+         "text": "また",
+         "translate": "một lần nữa, và"
+     },
+     {
+         "text": "まだ",
+         "translate": "Chưa hết, vẫn còn"
+     },
+     {
+         "kanji": "町",
+         "text": "まち",
+         "translate": "thị xã, thành phố"
+     },
+     {
+         "kanji": "待つ",
+         "text": "まつ",
+         "translate": "chờ đợi"
+     },
+     {
+         "text": "まっすぐ",
+         "translate": "thẳng về phía trước, trực tiếp"
+     },
+     {
+         "text": "マッチ",
+         "translate": "trận đấu"
+     },
+     {
+         "kanji": "窓",
+         "text": "まど",
+         "translate": "cửa sổ"
+     },
+     {
+         "kanji": "丸い/円い",
+         "text": "まるい",
+         "translate": "tròn, tròn"
+     },
+     {
+         "kanji": "万",
+         "text": "まん",
+         "translate": "mười nghìn"
+     },
+     {
+         "kanji": "万年筆",
+         "text": "まんねんひつ",
+         "translate": "cây bút"
+     },
+     {
+         "kanji": "磨く",
+         "text": "みがく",
+         "translate": "đánh răng, đánh bóng"
+     },
+     {
+         "kanji": "右",
+         "text": "みぎ",
+         "translate": "bên phải"
+     },
+     {
+         "kanji": "短い",
+         "text": "みじかい",
+         "translate": "ngắn"
+     },
+     {
+         "kanji": "水",
+         "text": "みず",
+         "translate": "nước"
+     },
+     {
+         "kanji": "店",
+         "text": "みせ",
+         "translate": "cửa hàng"
+     },
+     {
+         "kanji": "見せる",
+         "text": "みせる",
+         "translate": "để hiển thị"
+     },
+     {
+         "kanji": "道",
+         "text": "みち",
+         "translate": "đường phố"
+     },
+     {
+         "kanji": "三日",
+         "text": "みっか",
+         "translate": "ba ngày, ngày thứ ba của tháng"
+     },
+     {
+         "kanji": "三つ",
+         "text": "みっつ",
+         "translate": "ba"
+     },
+     {
+         "kanji": "緑",
+         "text": "みどり",
+         "translate": "màu xanh lá cây"
+     },
+     {
+         "kanji": "皆さん",
+         "text": "みなさん",
+         "translate": "tất cả mọi người"
+     },
+     {
+         "kanji": "南",
+         "text": "みなみ",
+         "translate": "nam"
+     },
+     {
+         "kanji": "耳",
+         "text": "みみ",
+         "translate": "tai"
+     },
+     {
+         "kanji": "見る 観る",
+         "text": "みる",
+         "translate": "để xem, để xem"
+     },
+     {
+         "text": "みんな",
+         "translate": "tất cả mọi người"
+     },
+     {
+         "kanji": "六日",
+         "text": "むいか",
+         "translate": "sáu ngày, ngày thứ sáu của tháng"
+     },
+     {
+         "kanji": "向こう",
+         "text": "むこう",
+         "translate": "ở đó"
+     },
+     {
+         "kanji": "難しい",
+         "text": "むずかしい",
+         "translate": "khó khăn"
+     },
+     {
+         "kanji": "六つ",
+         "text": "むっつ",
+         "translate": "sáu"
+     },
+     {
+         "kanji": "村",
+         "text": "むら",
+         "translate": "làng"
+     },
+     {
+         "kanji": "目",
+         "text": "め",
+         "translate": "mắt"
+     },
+     {
+         "text": "メートル",
+         "translate": "mét"
+     },
+     {
+         "kanji": "眼鏡",
+         "text": "めがね",
+         "translate": "kính"
+     },
+     {
+         "text": "もう",
+         "translate": "đã"
+     },
+     {
+         "kanji": "もう一度",
+         "text": "もういちど",
+         "translate": "một lần nữa"
+     },
+     {
+         "kanji": "木曜日",
+         "text": "もくようび",
+         "translate": "Thứ năm"
+     },
+     {
+         "kanji": "持つ",
+         "text": "もつ",
+         "translate": "tổ chức"
+     },
+     {
+         "text": "もっと",
+         "translate": "hơn"
+     },
+     {
+         "kanji": "物",
+         "text": "もの",
+         "translate": "điều"
+     },
+     {
+         "kanji": "門",
+         "text": "もん",
+         "translate": "cửa"
+     },
+     {
+         "kanji": "問題",
+         "text": "もんだい",
+         "translate": "vấn đề"
+     },
+     {
+         "kanji": "八百屋",
+         "text": "やおや",
+         "translate": "bán rau"
+     },
+     {
+         "kanji": "野菜",
+         "text": "やさい",
+         "translate": "rau"
+     },
+     {
+         "kanji": "易しい",
+         "text": "やさしい",
+         "translate": "dễ dàng, đơn giản"
+     },
+     {
+         "kanji": "安い",
+         "text": "やすい",
+         "translate": "giá rẻ"
+     },
+     {
+         "kanji": "休み",
+         "text": "やすみ",
+         "translate": "phần còn lại, kỳ nghỉ"
+     },
+     {
+         "kanji": "休む",
+         "text": "やすむ",
+         "translate": "để phần còn lại"
+     },
+     {
+         "kanji": "八つ",
+         "text": "やっつ",
+         "translate": "tám"
+     },
+     {
+         "kanji": "山",
+         "text": "やま",
+         "translate": "núi"
+     },
+     {
+         "text": "やる",
+         "translate": "làm"
+     },
+     {
+         "kanji": "夕方",
+         "text": "ゆうがた",
+         "translate": "buổi tối"
+     },
+     {
+         "kanji": "夕飯",
+         "text": "ゆうはん",
+         "translate": "bữa ăn tối"
+     },
+     {
+         "kanji": "郵便局",
+         "text": "ゆうびんきょく",
+         "translate": "bưu điện"
+     },
+     {
+         "kanji": "昨夜",
+         "text": "ゆうべ",
+         "translate": "đêm qua"
+     },
+     {
+         "kanji": "有名",
+         "text": "ゆうめい",
+         "translate": "nổi tiếng"
+     },
+     {
+         "kanji": "雪",
+         "text": "ゆき",
+         "translate": "tuyết"
+     },
+     {
+         "kanji": "行く",
+         "text": "ゆく",
+         "translate": "đi"
+     },
+     {
+         "text": "ゆっくりと",
+         "translate": "chậm"
+     },
+     {
+         "kanji": "八日",
+         "text": "ようか",
+         "translate": "tám ngày, ngày thứ tám của tháng"
+     },
+     {
+         "kanji": "洋服",
+         "text": "ようふく",
+         "translate": "quần áo kiểu phương Tây"
+     },
+     {
+         "text": "よく",
+         "translate": "thường xuyên, cũng"
+     },
+     {
+         "kanji": "横",
+         "text": "よこ",
+         "translate": "bên cạnh, bên, chiều rộng"
+     },
+     {
+         "kanji": "四日",
+         "text": "よっか",
+         "translate": "bốn ngày, ngày fouth tháng"
+     },
+     {
+         "kanji": "四つ",
+         "text": "よっつ",
+         "translate": "bốn"
+     },
+     {
+         "kanji": "呼ぶ",
+         "text": "よぶ",
+         "translate": "để gọi ra, để mời"
+     },
+     {
+         "kanji": "読む",
+         "text": "よむ",
+         "translate": "đọc"
+     },
+     {
+         "kanji": "夜",
+         "text": "よる",
+         "translate": "buổi tối, ban đêm"
+     },
+     {
+         "kanji": "弱い",
+         "text": "よわい",
+         "translate": "yếu"
+     },
+     {
+         "kanji": "来月",
+         "text": "らいげつ",
+         "translate": "vào tháng tới"
+     },
+     {
+         "kanji": "来週",
+         "text": "らいしゅう",
+         "translate": "tuần tới"
+     },
+     {
+         "kanji": "来年",
+         "text": "らいねん",
+         "translate": "năm tới"
+     },
+     {
+         "text": "ラジオ",
+         "translate": "đài phát thanh"
+     },
+     {
+         "text": "ラジカセ / ラジオカセット",
+         "translate": "đài cassette"
+     },
+     {
+         "text": "りっぱ",
+         "translate": "lộng lẫy"
+     },
+     {
+         "kanji": "留学生",
+         "text": "りゅうがくせい",
+         "translate": "sinh viên nước ngoài"
+     },
+     {
+         "kanji": "両親",
+         "text": "りょうしん",
+         "translate": "cả cha lẫn mẹ"
+     },
+     {
+         "kanji": "料理",
+         "text": "りょうり",
+         "translate": "ẩm thực"
+     },
+     {
+         "kanji": "旅行",
+         "text": "りょこう",
+         "translate": "du lịch"
+     },
+     {
+         "kanji": "零",
+         "text": "れい",
+         "translate": "không"
+     },
+     {
+         "kanji": "冷蔵庫",
+         "text": "れいぞうこ",
+         "translate": "tủ lạnh"
+     },
+     {
+         "text": "レコード",
+         "translate": "kỷ lục"
+     },
+     {
+         "text": "レストラン",
+         "translate": "nhà hàng"
+     },
+     {
+         "kanji": "練習",
+         "text": "れんしゅうする",
+         "translate": "thực hành"
+     },
+     {
+         "kanji": "廊下",
+         "text": "ろうか",
+         "translate": "hành lang"
+     },
+     {
+         "kanji": "六",
+         "text": "ろく",
+         "translate": "sáu"
+     },
+     {
+         "text": "ワイシャツ",
+         "translate": "áo sơ mi kinh doanh"
+     },
+     {
+         "kanji": "若い",
+         "text": "わかい",
+         "translate": "trẻ"
+     },
+     {
+         "kanji": "分かる",
+         "text": "わかる",
+         "translate": "phải được hiểu"
+     },
+     {
+         "kanji": "忘れる",
+         "text": "わすれる",
+         "translate": "quên"
+     },
+     {
+         "kanji": "私",
+         "text": "わたくし",
+         "translate": "(khiêm tốn) Bản thân tôi"
+     },
+     {
+         "kanji": "私",
+         "text": "わたし",
+         "translate": "Bản thân tôi"
+     },
+     {
+         "kanji": "渡す",
+         "text": "わたす",
+         "translate": "giao"
+     },
+     {
+         "kanji": "渡る",
+         "text": "わたる",
+         "translate": "đi qua"
+     },
+     {
+         "kanji": "悪い",
+         "text": "わるい",
+         "translate": "xấu"
+     },
+     {
+         "text": "より、ほう",
+         "translate": "Được sử dụng để so sánh."
+     }
+ ]
