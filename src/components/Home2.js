@@ -118,7 +118,17 @@ const styles = StyleSheet.create({
     fontSize: theme.sizes.font * 1.2,
     lineHeight: theme.sizes.font * 2,
     color: theme.colors.caption
-  }
+  },
+  headerStyle: {
+		backgroundColor: "#df3237",
+		elevation: 0,
+		shadowOpacity: 0
+	},
+	headerTitleStyle: {
+		color: "black",
+		alignSelf: 'center',
+		textAlign: 'center',
+	}
 });
 
 class Article2 extends Component {
@@ -134,19 +144,28 @@ class Article2 extends Component {
 
   static navigationOptions = ({ navigation }) => {
     const { state, setParams } = navigation;
-    return {
-      header: () => (
-        <View style={[styles.flex, styles.row, styles.header]}>
-          <TouchableOpacity style={styles.back} onPress={() => console.log("ádasdasd")}>
-            <FontAwesome name="chevron-left" color={theme.colors.white} size={theme.sizes.font * 1} />
-          </TouchableOpacity>
-          <TouchableOpacity>
-            <MaterialIcons name="more-horiz" color={theme.colors.white} size={theme.sizes.font * 1.5} />
-          </TouchableOpacity>
-        </View>
-      ),
-      headerTransparent: true,
-    }
+     let title = navigation.getParam('article');
+     console.log(title)
+    // return {
+      // header: () => (
+      //   <View style={[styles.flex, styles.row, styles.header]}>
+      //     {/* <TouchableOpacity style={styles.back} onPress={() => console.log("ádasdasd")}>
+      //       <FontAwesome name="chevron-left" color={theme.colors.white} size={theme.sizes.font * 1} />
+      //     </TouchableOpacity>
+      //     <TouchableOpacity>
+      //       <MaterialIcons name="more-horiz" color={theme.colors.white} size={theme.sizes.font * 1.5} />
+      //     </TouchableOpacity> */}
+      //   </View>
+      // ),
+      return {
+        title: title.title,
+			headerTintColor: "black",
+       headerTransparent: true,
+       headerStyle: styles.headerStyle,
+			headerTitleStyle: styles.headerTitleStyle,
+		};
+     
+    // }
   }
   onToggleView = () => {
     this.setState({

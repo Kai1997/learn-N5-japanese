@@ -273,6 +273,14 @@ export default class Lession extends React.Component {
                 source={require('../../assert/imgs/left.png')}>
               </Image>
             </TouchableOpacity>
+            {((this.state.currentIndex + 1) == this.state.lession.length) ? (<TouchableOpacity
+              style={[styles.buttonNext, styles.shadow]}
+              onPress={() => this.props.navigation.goBack()}
+            >
+              <Text style={styles.textNexx}>Hoàn thành</Text>
+            </TouchableOpacity>) : (
+              <Text></Text>
+            )}
             <TouchableOpacity
               style={styles.button}
               onPress={() => this.nextImage()}
@@ -313,6 +321,16 @@ const styles = StyleSheet.create({
     borderRadius: 20,
 
   },
+  buttonNext: {
+    backgroundColor: 'red',
+    justifyContent: "center",
+    borderRadius: 20,
+    borderColor: '#000',
+    // borderWidth: 1,
+    padding: 20,
+
+    // borderStyle: 'dashed'
+  },
   imageiconarrow: {
     height: SCREEN_WIDTH / 7,
     width: SCREEN_WIDTH / 7,
@@ -333,6 +351,17 @@ const styles = StyleSheet.create({
     padding: 15,
     fontSize: 32,
     color: theme.colors.caption
+  },
+  shadow: {
+    shadowColor: "#000",
+    shadowOffset: {
+      width: 0,
+      height: 7,
+    },
+    shadowOpacity: 0.43,
+    shadowRadius: 9.51,
+
+    elevation: 15,
   },
   imageStyle: {
     width: SCREEN_WIDTH * 3 / 4,
